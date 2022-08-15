@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_subtitle_subtitles",
+  "info": {
+    "name": "Subtitle",
+    "icon": "align-justify"
+  },
+  "options": {},
+  "attributes": {
+    "Tagline": {
+      "type": "string"
+    }
+  }
+}
